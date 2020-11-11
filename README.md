@@ -1,7 +1,7 @@
 
 ### Olá 👋
 
-# Eu sou um Desenvolvedor Frontend trabalhando de Petrópolis/RJ.
+# Eu sou um Desenvolvedor Frontend trabalhando em Petrópolis/RJ.
 - 🏢 Atualmente trabalho na Accenture Interactive
 - 💻 Atualmente estou usando `JavaScript | Node.js`e o ecossistema `AWS`, mas minha experiência é maior em `HTML`, `CSS`, `Angular`, `Vue` and `React`.
 - 📥 Me encontre: [LinkedIn](https://www.linkedin.com/in/andreluisfelizardo/)
