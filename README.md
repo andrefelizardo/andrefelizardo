@@ -1,18 +1,17 @@
+
 ### Olá 👋
 
-Sim, eu ainda preciso editar isso aqui.
+# Eu sou um Desenvolvedor Frontend trabalhando de Petrópolis/RJ.
+- 🏢 Atualmente trabalho na Accenture Interactive
+- 💻 Atualmente estou usando `JavaScript | Node.js`e o ecossistema `AWS`, mas minha experiência é maior em `HTML`, `CSS`, `Angular`, `Vue` and `React`.
+- 📥 Me encontre: [LinkedIn](https://www.linkedin.com/in/andreluisfelizardo/)
+- ⚡Curiosidade: Eu falo sobre dinheiro no meu Instagram [@granadepreto](https://www.instagram.com/granadepreto/)
+#
 
-<!--
-**andrefelizardo/andrefelizardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi 👋
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# I'm a Frontend Developer working in Petrópolis/RJ, Brazil.
+- 🏢 I’m currently working on Accenture Interactive
+- 💻 I'm currently use  `JavaScript | Node.js` and the `AWS` ecosystem, but my background is big in `HTML`, `CSS`, `Angular`, `Vue` and `React`.
+- 📥 Reach me: [LinkedIn](https://www.linkedin.com/in/andreluisfelizardo/)
+- ⚡Fun fact: I talk about money on my Instagram [@granadepreto](https://www.instagram.com/granadepreto/)
