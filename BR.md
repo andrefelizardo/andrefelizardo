@@ -1,16 +1,16 @@
-### Hi 👋
+### Olá 👋
 
-# I'm a Developer working remotely in Brazil.
-<div align="center">Mudar idioma: <a href="https://github.com/andrefelizardo/andrefelizardo/blob/master/BR.md" target="_blank">🇧🇷</a></div>
+# Sou um desenvolvedor trabalhando remotamente do Brasil.
+<div align="center">Change language: <a href="https://github.com/andrefelizardo/andrefelizardo/blob/master/README.md" target="_blank">🇺🇸</a></div>
 <br />
 
-- 🏢 I’m currently working full-time at @Gateway-DAO
-- 💻 I'm currently using  `Next.js (React)`, `Nest.js (Node)` and `Solidity (Blockchain)`.
+- 🏢 Estou trabalhando full-time na @Gateway-DAO
+- 💻 Atualmente eu estou usando  `Next.js (React)`, `Nest.js (Node)` e `Solidity (Blockchain)`.
 - 🌎 Website: https://andrefelizardo.com.br
-- 📥 Feel free to contact me:
+- 📥 Sinta-se a vontade para falar comigo:
   - [LinkedIn](https://www.linkedin.com/in/andreluisfelizardo/)
   - [Discord](https://discordapp.com/users/694185364629487626)
-- ⚡ Fun fact: I talk about money on my Instagram page [@granadepreto](https://www.instagram.com/granadepreto/)
+- ⚡ Fato curioso: Eu falo sobre grana na minha página do Instagram [@granadepreto](https://www.instagram.com/granadepreto/)
 
 
 
