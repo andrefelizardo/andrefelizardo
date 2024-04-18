@@ -10,7 +10,6 @@
 - 📥 Feel free to contact me:
   - [LinkedIn](https://www.linkedin.com/in/andreluisfelizardo/)
   - [Discord](https://discordapp.com/users/694185364629487626)
-- ⚡ Fun fact: I talk about money on my Instagram page [@granadepreto](https://www.instagram.com/granadepreto/)
 
 
 
