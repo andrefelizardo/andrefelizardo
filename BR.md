@@ -5,7 +5,7 @@
 <br />
 
 - 🏢 Estou trabalhando full-time na @Gateway-DAO
-- 💻 Atualmente eu estou usando  `Next.js (React)`, `Nest.js (Node)` e `Solidity (Blockchain)`.
+- 💻 Atualmente eu estou usando  `Next.js (React)`, `Nest.js (Node)`, `Flutter (mobile)` e `Solidity (Blockchain)`.
 - 🌎 Website: https://andrefelizardo.com.br
 - 📥 Sinta-se a vontade para falar comigo:
   - [LinkedIn](https://www.linkedin.com/in/andreluisfelizardo/)
