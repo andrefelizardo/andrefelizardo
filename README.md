@@ -8,7 +8,7 @@
 - 💻 I'm currently using `Golang`, `Flutter/Dart (mobile)` and `Next.js (React)`.
 - 🌎 Website: https://andrefelizardo.com.br
 - 📥 Feel free to contact me:
-  - [LinkedIn](https://www.linkedin.com/in/andreluisfelizardo/)
+  - [LinkedIn](https://www.linkedin.com/in/andrefelizardo/)
   - [Discord](https://discordapp.com/users/694185364629487626)
 
 
