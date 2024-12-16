@@ -4,8 +4,7 @@
 <div align="center">Mudar idioma: <a href="https://github.com/andrefelizardo/andrefelizardo/blob/master/BR.md" target="_blank">🇧🇷</a></div>
 <br />
 
-- 🏢 I’m currently working full-time at @Gateway-DAO
-- 💻 I'm currently using `Golang`, `Flutter/Dart (mobile)` and `Next.js (React)`.
+- 💻 I'm currently using `Golang`, `Solidity`, `Next.js (React)` and `Flutter/Dart (mobile)`.
 - 🌎 Website: https://andrefelizardo.com.br
 - 📥 Feel free to contact me:
   - [LinkedIn](https://www.linkedin.com/in/andrefelizardo/)
