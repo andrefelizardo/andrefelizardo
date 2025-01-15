@@ -4,11 +4,12 @@
 <div align="center">Mudar idioma: <a href="https://github.com/andrefelizardo/andrefelizardo/blob/master/BR.md" target="_blank">🇧🇷</a></div>
 <br />
 
-- 💻 I'm currently using `Golang`, `Solidity`, `Next.js (React)` and `Flutter/Dart (mobile)`.
+- 💻 I love to work with `Javascript`, `React`, `Next.js`, `Vite`, `Node.js`, `Go`, `Solidity`, `Flutter`, but I can work with any languages and frameworks.
 - 🌎 Website: https://andrefelizardo.com.br
 - 📥 Feel free to contact me:
   - [LinkedIn](https://www.linkedin.com/in/andrefelizardo/)
   - [Discord](https://discordapp.com/users/694185364629487626)
+  - [Email](@mailto:me@andrefelizardo.com.br)
 
 
 
