@@ -9,7 +9,6 @@
 - 📥 Feel free to contact me:
   - [LinkedIn](https://www.linkedin.com/in/andrefelizardo/)
   - [Discord](https://discordapp.com/users/694185364629487626)
-  - [Email](@mailto:me@andrefelizardo.com.br)
 
 
 
